@@ -1,0 +1,10 @@
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\bin\Debug\netcoreapp1.0\SubmissionAPI.deps.json
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\bin\Debug\netcoreapp1.0\SubmissionAPI.runtimeconfig.json
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\bin\Debug\netcoreapp1.0\SubmissionAPI.runtimeconfig.dev.json
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\bin\Debug\netcoreapp1.0\SubmissionAPI.dll
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\bin\Debug\netcoreapp1.0\SubmissionAPI.pdb
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\obj\Debug\netcoreapp1.0\SubmissionAPI.csprojResolveAssemblyReference.cache
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\obj\Debug\netcoreapp1.0\SubmissionAPI.csproj.CoreCompileInputs.cache
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\obj\Debug\netcoreapp1.0\SubmissionAPI.AssemblyInfo.cs
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\obj\Debug\netcoreapp1.0\SubmissionAPI.dll
+D:\testApplication\DontNetApplicationAPI\SubmissionAPI\obj\Debug\netcoreapp1.0\SubmissionAPI.pdb

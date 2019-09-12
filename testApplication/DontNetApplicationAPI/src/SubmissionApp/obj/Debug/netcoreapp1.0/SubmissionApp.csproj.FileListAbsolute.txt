@@ -1,0 +1,11 @@
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\appsettings.json
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\SubmissionApp.deps.json
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\SubmissionApp.runtimeconfig.json
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\SubmissionApp.runtimeconfig.dev.json
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\SubmissionApp.dll
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\bin\Debug\netcoreapp1.0\SubmissionApp.pdb
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\obj\Debug\netcoreapp1.0\SubmissionApp.csprojResolveAssemblyReference.cache
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\obj\Debug\netcoreapp1.0\SubmissionApp.csproj.CoreCompileInputs.cache
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\obj\Debug\netcoreapp1.0\SubmissionApp.AssemblyInfo.cs
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\obj\Debug\netcoreapp1.0\SubmissionApp.dll
+D:\testApplication\DontNetApplicationAPI\src\SubmissionApp\obj\Debug\netcoreapp1.0\SubmissionApp.pdb

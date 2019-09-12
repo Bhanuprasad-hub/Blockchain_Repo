@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{317E90AE-18E3-4A74-A484-34B6869F2F16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{158F77CC-38D8-471A-BD1C-ABE8934BCE4C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SubmissionApp", "src\SubmissionApp\SubmissionApp.xproj", "{682D9444-4147-45B4-B42C-2DC931BA2B5B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SubmissionAPI", "SubmissionAPI\SubmissionAPI.xproj", "{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682D9444-4147-45B4-B42C-2DC931BA2B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682D9444-4147-45B4-B42C-2DC931BA2B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682D9444-4147-45B4-B42C-2DC931BA2B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682D9444-4147-45B4-B42C-2DC931BA2B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{682D9444-4147-45B4-B42C-2DC931BA2B5B} = {317E90AE-18E3-4A74-A484-34B6869F2F16}
+		{982FDE8E-B6DB-48EF-875C-4E48C2CA92BD} = {317E90AE-18E3-4A74-A484-34B6869F2F16}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\testApplication\DontNetApplicationAPI\WebApplication2\bin\Release\netcoreapp1.1\WebApplication2.deps.json
+D:\testApplication\DontNetApplicationAPI\WebApplication2\bin\Release\netcoreapp1.1\WebApplication2.runtimeconfig.json
+D:\testApplication\DontNetApplicationAPI\WebApplication2\bin\Release\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+D:\testApplication\DontNetApplicationAPI\WebApplication2\bin\Release\netcoreapp1.1\WebApplication2.dll
+D:\testApplication\DontNetApplicationAPI\WebApplication2\bin\Release\netcoreapp1.1\WebApplication2.pdb
+D:\testApplication\DontNetApplicationAPI\WebApplication2\obj\Release\netcoreapp1.1\WebApplication2.csproj.CoreCompileInputs.cache
+D:\testApplication\DontNetApplicationAPI\WebApplication2\obj\Release\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+D:\testApplication\DontNetApplicationAPI\WebApplication2\obj\Release\netcoreapp1.1\WebApplication2.dll
+D:\testApplication\DontNetApplicationAPI\WebApplication2\obj\Release\netcoreapp1.1\WebApplication2.pdb
+D:\testApplication\DontNetApplicationAPI\WebApplication2\obj\Release\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache

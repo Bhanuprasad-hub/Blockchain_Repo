@@ -1,0 +1,45 @@
+﻿{
+  "buildOptions": {
+    "emitEntryPoint": true,
+    "copyToOutput": {
+      "includeFiles": [
+          "appsettings.json"
+        ]
+      }
+    },
+    "publishOptions": {
+      "include": [
+        "appsettings.json"
+      ]
+    },
+    "dependencies": {
+      "Microsoft.Extensions.Configuration": "1.0.1",
+      "Microsoft.Extensions.Configuration.Abstractions": "1.0.2",
+      "Microsoft.Extensions.Configuration.Binder": "1.0.1",
+      "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.1",
+      "Microsoft.Extensions.Configuration.Json": "1.0.1",
+      "Microsoft.Extensions.DependencyInjection": "1.0.2",
+      "Nethereum.Contracts": "2.5.0",
+      "Nethereum.Web3": "2.5.0"
+    },
+    "frameworks": {
+      "netcoreapp1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": {
+            "version": "1.0.1"
+          }
+        },
+        "imports": "dnxcore50"
+      },
+      "net461": {}
+    },
+    "runtimes": {
+      "win8-x64": {}
+    },
+    "runtimeOptions": {
+      "configProperties": {
+        "System.GC.Server": true
+      }
+    },
+    "version": "1.0.0-*"
+  }

@@ -1,0 +1,69 @@
+--temp-output:C:\Users\roopa.jain\documents\visual studio 2015\Projects\BlockChainApp\src\SubmissionApp\obj\Debug\net461\
+--out:C:\Users\roopa.jain\documents\visual studio 2015\Projects\BlockChainApp\src\SubmissionApp\bin\Debug\net461\SubmissionApp.exe
+--define:DEBUG
+--define:TRACE
+--define:NET461
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:SubmissionApp
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.6.1
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\BouncyCastle\1.8.2\lib\BouncyCastle.Crypto.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Common.Logging.Core\3.4.1\lib\net40\Common.Logging.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration\1.0.1\lib\netstandard1.1\Microsoft.Extensions.Configuration.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration.Abstractions\1.0.2\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration.Binder\1.0.1\lib\netstandard1.1\Microsoft.Extensions.Configuration.Binder.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration.EnvironmentVariables\1.0.1\lib\net451\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration.FileExtensions\1.0.1\lib\net451\Microsoft.Extensions.Configuration.FileExtensions.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Configuration.Json\1.0.1\lib\net451\Microsoft.Extensions.Configuration.Json.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.DependencyInjection\1.0.2\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.DependencyInjection.Abstractions\1.0.2\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.FileProviders.Abstractions\1.0.1\lib\netstandard1.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.FileProviders.Physical\1.0.1\lib\net451\Microsoft.Extensions.FileProviders.Physical.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.FileSystemGlobbing\1.0.1\lib\net451\Microsoft.Extensions.FileSystemGlobbing.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Microsoft.Extensions.Primitives\1.0.1\lib\netstandard1.0\Microsoft.Extensions.Primitives.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.ABI\2.5.0\lib\net451\Nethereum.ABI.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Accounts\2.5.0\lib\net451\Nethereum.Accounts.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Contracts\2.5.0\lib\net451\Nethereum.Contracts.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Hex\2.5.0\lib\net451\Nethereum.Hex.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.JsonRpc.Client\2.5.0\lib\net451\Nethereum.JsonRpc.Client.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.JsonRpc.RpcClient\2.5.0\lib\net451\Nethereum.JsonRpc.RpcClient.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.KeyStore\2.5.0\lib\net451\Nethereum.KeyStore.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.RLP\2.5.0\lib\net451\Nethereum.RLP.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.RPC\2.5.0\lib\net451\Nethereum.RPC.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Signer\2.5.0\lib\net451\Nethereum.Signer.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Util\2.5.0\lib\net451\Nethereum.Util.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Nethereum.Web3\2.5.0\lib\net451\Nethereum.Web3.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\Newtonsoft.Json\10.0.3\lib\net45\Newtonsoft.Json.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Collections.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Collections.Concurrent.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.ComponentModel.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\System.ComponentModel.Primitives\4.1.0\ref\net45\System.ComponentModel.Primitives.dll
+--reference:D:\Roopa\Projects\SarasManthan_AllInOne\packages\System.ComponentModel.TypeConverter\4.1.0\ref\net45\System.ComponentModel.TypeConverter.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Diagnostics.Debug.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Globalization.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.IO.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Linq.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Linq.Expressions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Reflection.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Resources.ResourceManager.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.InteropServices.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Threading.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Threading.Tasks.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Net.Http.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Numerics.dll
+C:\Users\roopa.jain\documents\visual studio 2015\Projects\BlockChainApp\src\SubmissionApp\Program.cs
+C:\Users\roopa.jain\documents\visual studio 2015\Projects\BlockChainApp\src\SubmissionApp\Models\AppSettings.cs
+C:\Users\roopa.jain\documents\visual studio 2015\Projects\BlockChainApp\src\SubmissionApp\Properties\AssemblyInfo.cs

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>ESIL: Blockchain POC App</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="Styles/bootstrap.min.css"> -->
+  <script src="Scripts/jquery.min.js"></script>
+  <!-- <script src="Scripts/bootstrap.min.js"></script> -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  <script src="Scripts/businesslogic.js"></script>
+</head>
+<body>
+<div class="container">
+	  <div class="jumbotron" style="padding: 3% !important;">
+	 <center> <h1 style="color:orange"> Blockchain based test-player</h1></center>
+	<!-- <div> -->
+	<!-- <center> -->
+		<!-- <button class="btn btn-primary hidden" onclick="startTask()" >start</button> -->
+	<!-- </center> -->
+	<!-- </div> -->
+	<div style="margin: 7% 0 0 0;">User Address: <input type="textbox" class="col-xs-4 col-md-4" id="yourAddress" value="0xe6c989734fa8a6f699f80d160d00f141f2620f57" /></div>
+	</div>
+	<center>
+	
+	<div id="formdiv" class="container" style="text-align: left;margin: 3% 2%;">
+		<p id="question"class="" style="margin-bottom:30px;"> 1. Question </p>
+		<form role="form" name="quizform">
+			<div class="col-md-12 col-xs-12">
+				<div class="col-md-10 col-xs-10 radio"><label ><input type="radio" name="quiz" id="1" value="1" onchange="getAnswer1()">&nbsp;<span id="op1">Option 1<span></label></div>
+				<div class="col-md-10 col-xs-10 radio"><label ><input type="radio" name="quiz" id="2" value="2" onchange="getAnswer2()">&nbsp;<span id="op2">Option 2<span></label></div>
+				<div class="col-md-10 col-xs-10 radio"><label ><input type="radio" name="quiz" id="3" value="3" onchange="getAnswer3()">&nbsp;<span id="op3">Option 3<span></label></div>
+				<div class="col-md-10 col-xs-10 radio"><label ><input type="radio" name="quiz" id="4" value="4" onchange="getAnswer4()">&nbsp;<span id="op4">Option 4<span></label></div>
+			</div>
+			<br>
+			<input type="button" class="btn btn-outline-secondary" value="Prev" onclick="Navprev()">
+			<input type="button" class="btn btn-outline-secondary" value="Clear" onclick="clearSelection()">
+			<input type="button" class="btn btn-outline-secondary" value="Next" onclick="next()">	
+		</form>
+		<br>
+		<button class="btn btn-success" id="submit" onclick="calculate()">Submit</button>
+	</div>
+	<!-- <div id="resultVal"> -->
+		<!-- <p> Total   Questions:<span id="rt">0</span> </p> -->
+		<!-- <p> Correct Answered:<span id="rc">0</span> </p> -->
+		<!-- <p> Wrong   Answered:<span id="rw">0</span> </p> -->
+		<!-- <p> Not     Answered:<span id="rn">0</span> </p> -->
+	<!-- </div> -->
+	
+	<div id="resultDiv">
+		<div id="resultVal" class="col-md-12 col-xs-12 jumbotron" style="text-align: left;padding: 3%;">
+			<p> Response<b> stored </b> &amp; <b>retrieved </b> from personal <b>blockchain</b> : </p>
+			<div style="margin-left: 5%;">
+				<p> Total no of questions: <span id="rt">5</span> </p>
+				<p  style="margin-left: 7%;"> Correct answered: <span id="rc">1</span> </p>
+				<p  style="margin-left: 7%;"> Wrong answered: <span id="rw">2</span> </p>
+				<p  style="margin-left: 7%;"> Not answered: <span id="rn">2</span> </p>
+			</div>
+		</div>
+		<p id="errorMsg">Technical error while submission!</p>
+	</div>
+</div>
+
+</center>
+
+</body>
+<script>
+
+</script>
+</html>
